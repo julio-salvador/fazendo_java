@@ -7,12 +7,17 @@ public class senha {
 
         System.out.println("Qual sua senha?" );
 
-        int senhaDigi = 1234;
+        int digitado = 1234;
+        int senha = 1234;
 
-        
+        if (senha == digitado) {
+             System.out.println("Acesso permitido");
+        }
+        else {
+             System.out.println("Acesso negado" );
+        }
 
-        
-            
+    
         }
     }
-}
+
