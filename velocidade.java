@@ -7,7 +7,7 @@ public class velocidade {
 
         System.out.println("Qual a sua velocidade?" );
 
-        int velo = 79;
+        int velo = scanner.nextInt();
 
         if (velo > 80) {
             System.out.println("Velocidade acima do limite, reduza!" );

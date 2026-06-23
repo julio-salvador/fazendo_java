@@ -18,7 +18,7 @@ public class semaforo {
             System.out.println("Siga o seu caminho.");
         }
         else {
-            System.out.println("Tem essa cor naum.");
+            System.out.println("Tem essa cor naum, cê ta bêbado?");
         }
     
 
